@@ -105,7 +105,7 @@ print(3%5)
 
 ## 파이썬 문자형 ----------@
 '''
-#문자열(string) 의 예시 "string", 'string'
+#문자열(string) 의 예시 "string",'string'
 s1 = "Hello Python"
 s2 = 'Hello Python'
 print(s1)
