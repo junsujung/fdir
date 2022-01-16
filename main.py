@@ -24,7 +24,7 @@
 
 
 ## 파이썬 숫자형 ----------@
-#파이썬 숫자형 e,o,x의 대소문자 구분 없습니다.(e = exponent(e표기법), o = octal, x = hexadecimal)
+#파이썬 숫자형 e,o,x의 대소문자 구분이 없습니다.(e = exponent(e표기법), o = octal, x = hexadecimal)
 '''
 a1 = 1234
 print(a1)
