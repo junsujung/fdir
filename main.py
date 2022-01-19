@@ -189,7 +189,7 @@ print(L1)
 print(L2[3])
 print(L3[0])
 print(L4)
-print(L5)
+print(L5)  
 
 #다중리스트
 L = [1, 2, 3, [4, 5, 6]]
